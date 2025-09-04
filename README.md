@@ -7,7 +7,7 @@
 This repository contains a structured set of **six learning packs** designed to introduce and deepen your understanding of Natural Language Processing (NLP).  
 The course balances **classical approaches** with **modern neural methods**, combining theory with hands-on applications.  
 
-<img src="source/CoursePackages.png" alt="Course Packages" width="50%">
+<img src="source/CoursePackages.png" alt="Course Packages" width="100%">
 
 ---
 
