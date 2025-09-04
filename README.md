@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) for Undergrads
+# 📘 Natural Language Processing (NLP) for Undergrads
 
 <img src="source/mmlab.png" alt="Course Logo" width="25%">
 
