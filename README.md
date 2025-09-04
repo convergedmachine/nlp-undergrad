@@ -31,9 +31,7 @@ The course balances **classical approaches** with **modern neural methods**, com
 
 ---
 
-## 📦 Pack 3 – Lexical Semantics & Neural Nets
-- **Topics**
-  - Lexical Semantics
+## 📦 Pack 3 – Neural Nets
 - **Applications**
   - Vector Semantics and Embeddings  
   - Feedforward Neural Networks  
@@ -41,7 +39,9 @@ The course balances **classical approaches** with **modern neural methods**, com
 
 ---
 
-## 📦 Pack 4 – Structured Linguistic Analysis
+## 📦 Pack 4 – Lexical Semantics & Structured Linguistic Analysis
+- **Topics**
+  - Lexical Semantics
 - **Applications**
   - WordNet  
   - Syntactic Analysis
