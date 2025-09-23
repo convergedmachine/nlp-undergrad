@@ -1,4 +1,4 @@
-# 📘 Natural Language Processing (NLP) for Undergraduates
+# 📘 Natural Language Processing (NLP) for Undergrads
 
 <img src="source/mmlab.png" alt="Course Logo" width="25%">
 
@@ -6,17 +6,6 @@
 
 This repository contains a structured set of **learning packs** designed to introduce and deepen your understanding of **Natural Language Processing (NLP)**.  
 The course blends **classical methods** with **modern deep learning approaches**, offering both **theoretical foundations** and **hands-on applications**.
-
----
-
-## 🗂️ Table of Contents
-- [Course Modules](#-course-modules)
-- [Learning Path](#-learning-path)
-- [Learning Outcomes](#-learning-outcomes)
-- [Getting Started](#-getting-started)
-- [Project & Assessment](#-project--assessment)
-- [References & Inspirations](#-references--inspirations)
-- [License](#-license)
 
 ---
 
