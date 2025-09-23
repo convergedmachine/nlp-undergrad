@@ -82,8 +82,6 @@ The course blends **classical methods** with **modern deep learning approaches**
 7. **Scale up** in Pack 7 (Transformers, LLMs, prompting, HF pipelines).  
 8. **Reflect responsibly** in Pack 8 (bias, fairness, safety, reproducibility).
 
-> 💡 Recommended pacing: ~1 pack/week with labs. Integrate a **term project** spanning Packs 2–7.
-
 ---
 
 ## 🎯 Learning Outcomes
