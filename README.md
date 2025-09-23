@@ -94,3 +94,16 @@ By the end of the course, students will be able to:
 - **Implement** sequence models (RNN/LSTM) and **reason** about attention at a high level.  
 - **Use** modern tooling (Hugging Face Transformers) for downstream tasks with prompting/fine-tuning.  
 - **Assess** datasets/models for bias, fairness, and ethical risks; **document** models with concise reports.
+
+---
+
+## ⚖️ License
+
+This course is released under the [MIT License](LICENSE).
+
+It has been adapted and customized from multiple academic resources, including:
+
+* [Berkeley Info 256: Applied Natural Language Processing (2019)](https://github.com/dbamman/anlp19) — David Bamman  
+* [CS447: Natural Language Processing (Illinois, 2023)](https://courses.grainger.illinois.edu/cs447/sp2023/index.html) — Julia Hockenmaier  
+* [UT Austin NLP Online Materials](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) — Greg Durrett  
+* [Stanford CS224n: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) — Christopher Manning et al.
